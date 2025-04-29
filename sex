@@ -8,7 +8,7 @@ local Player = Players.LocalPlayer
 local RealCharacter = Player.Character or Player.CharacterAdded:Wait()
 local IsInvisible = false
 local Transparency = true
-local Keybind = "H"
+local Keybind = "R"
 local NoClip = false
 local PseudoAnchor
 local Part
